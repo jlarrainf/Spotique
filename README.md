@@ -1,3 +1,3 @@
 # grupo95-BDD
-Grupo 95 Base de Datos
+Bot para Whatsapp que interactúa con Spotify
 "# Spotique" 
